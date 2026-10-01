@@ -1,162 +1,113 @@
 # AI Wellness Platform
 
-### Technical Project Management & Agile Product Delivery Case Study
+## Technical Project Management & Agile Product Delivery Case Study
 
 > An anonymized portfolio case study documenting my role as Technical Project Manager & Scrum Master during the Agile development and delivery of an AI-enabled wellness product.
 
-## Overview
+---
 
-This project demonstrates how I structured and coordinated the delivery of an AI-enabled wellness product within a cross-functional Agile team.
+## Project Overview
 
-My role focused on translating product requirements into actionable work, establishing the Scrum delivery framework, managing the backlog, coordinating cross-functional dependencies, facilitating Agile ceremonies, supporting UX and product collaboration, and maintaining delivery visibility.
+This case study demonstrates how I structured and coordinated the delivery of an AI-enabled product within a cross-functional Agile team.
 
-The product was subsequently launched after my engagement ended. My documented contribution covered the product development and Agile delivery phase.
+My role focused on translating product requirements into actionable delivery work, establishing the Scrum framework, managing the product backlog, coordinating Product, UX/UI, Engineering and QA, managing dependencies and blockers, and maintaining stakeholder visibility throughout delivery.
 
-## My Role
-
-**Technical Project Manager & Scrum Master**
-
-- Established the Agile delivery framework from the ground up
-- Created and managed the product backlog in Jira
-- Structured epics, user stories, story points, and acceptance criteria
-- Coordinated a 6-person cross-functional product team
-- Facilitated Sprint Planning, Daily Standups, Sprint Reviews, and Retrospectives
-- Managed technical dependencies and delivery blockers
-- Maintained Jira delivery visibility and stakeholder updates
-- Collaborated with Product, UX/UI, Engineering, and QA
-- Supported requirements clarification and acceptance readiness
-- Managed scope and protected sprint commitments
-
-## Project Context
-
-**Product:** AI-enabled wellness platform  
-**Team:** 6-person cross-functional Agile team  
+**My Role:** Technical Project Manager & Scrum Master  
+**Team:** 6-member cross-functional Agile team  
 **Duration:** 4 weeks  
 **Methodology:** Agile Scrum  
-**Primary Tools:** Jira, Confluence, Figma, Slack, Google Meet
-
-The product was designed around AI-enabled wellness experiences, personalized user support, wellness planning, and accessible digital health experiences.
-
-## Delivery Highlights
-
-- **2** Agile sprints delivered
-- **26** story points delivered across the documented sprints
-- **14** sprint stories completed across Sprint 1 and Sprint 2
-- **20** asynchronous daily standups facilitated
-- **2** delivery blockers resolved
-- **0** scope creep incidents during the documented sprints
-- **100%** of committed sprint work delivered on schedule
-- **17%** improvement in Sprint 2 velocity
-
-## What I Managed
-
-### Product & Requirements
-- Product backlog structure
-- User stories
-- Acceptance criteria
-- Definition of Done
-- Sprint goals
-- Scope management
-- Requirements clarification
-
-### Agile Delivery
-- Sprint planning
-- Daily standups
-- Sprint reviews
-- Retrospectives
-- Story estimation
-- Backlog management
-- Jira hygiene
-- Velocity and delivery tracking
-
-### Technical Coordination
-- Cross-functional dependencies
-- Third-party API dependency
-- Design-to-development coordination
-- QA readiness
-- Delivery blockers
-- Technical communication between team members
-
-### Stakeholder Management
-- Product Owner updates
-- Sprint review coordination
-- Delivery visibility through Jira
-- Feedback capture
-- Retrospective action tracking
-
-## Key Delivery Challenge
-
-The product team had a product vision but lacked a structured delivery framework.
-
-At the beginning of the engagement, the team needed:
-
-- A structured backlog
-- Clear ownership
-- Defined sprint goals
-- A consistent delivery process
-- Greater progress visibility
-- A mechanism for managing scope and dependencies
-
-I established the Scrum delivery structure and introduced a clearer workflow for moving work from backlog to completion.
-
-## Agile Delivery Approach
-
-### Sprint 1
-
-**Goal:** Complete the user onboarding flow and core AI symptom-checker MVP.
-
-I established the Sprint 1 goal, selected the sprint backlog, coordinated ownership, and introduced the team's Agile ceremonies and delivery tracking process.
-
-### Sprint 2
-
-**Goal:** Complete the provider directory, appointment booking flow, and notification system.
-
-For Sprint 2, I strengthened ticket quality by ensuring detailed acceptance criteria were included across the sprint backlog while continuing to manage dependencies, Jira hygiene, and stakeholder visibility.
-
-## Blocker Management
-
-Two significant delivery blockers were resolved during the project:
-
-1. A third-party API integration delay
-2. A design dependency conflict
-
-Both were addressed without disrupting the documented sprint delivery timeline.
-
-## Tools & Practices
-
-| Area | Tools / Practices |
-|---|---|
-| Project Management | Jira |
-| Documentation | Confluence |
-| UX Collaboration | Figma |
-| Communication | Slack |
-| Meetings | Google Meet |
-| Methodology | Agile Scrum |
-| Planning | Story Points / Planning Poker |
-| Delivery Tracking | Jira Board / Burndown |
-| Quality | Acceptance Criteria / Definition of Done |
-
-## Portfolio Documentation
-
-This repository contains selected project documentation demonstrating my approach to:
-
-- Product requirements
-- Agile delivery management
-- User stories and acceptance criteria
-- Technical coordination
-- Risk and dependency management
-- Testing and UAT
-- Stakeholder communication
-- Delivery planning
-- Retrospectives and continuous improvement
-
-> **Confidentiality note:** This is an anonymized portfolio case study. Product branding, company-identifying information, proprietary information, credentials, customer data, and confidential internal documentation have been excluded or reframed for portfolio purposes.
-
-## What This Project Demonstrates
-
-**Technical Project Management** · **Agile/Scrum Delivery** · **SaaS & AI Product Delivery** · **Requirements Management** · **Backlog Management** · **Customer & Stakeholder Collaboration** · **Technical Coordination** · **Risk & Dependency Management** · **UX Collaboration** · **QA/UAT Coordination** · **Scope Management**
+**Tools:** Jira, Confluence, Figma, Slack, Google Meet
 
 ---
 
-**Lilian Uwakwe**  
-Technical Project Manager | SaaS & AI Delivery | ERP & CRM | Customer Success | Cloud & Automation
+## What I Delivered
+
+### Product & Requirements
+
+- Structured a product backlog containing 24 user stories
+- Organized requirements into five product epics
+- Supported user-story development
+- Introduced detailed acceptance criteria
+- Established a Definition of Done
+- Supported backlog prioritization and sprint planning
+
+### Agile Delivery
+
+- Created and managed the Jira Scrum board
+- Facilitated Sprint Planning
+- Coordinated asynchronous Daily Standups
+- Facilitated Sprint Reviews
+- Facilitated Retrospectives
+- Maintained sprint and backlog hygiene
+- Tracked delivery progress and commitments
+
+### Technical Coordination
+
+- Coordinated cross-functional dependencies
+- Managed a third-party API integration blocker
+- Coordinated a design dependency conflict
+- Supported communication between Product, UX/UI, Engineering and QA
+- Tracked risks and blockers through delivery
+
+### Stakeholder Management
+
+- Maintained Product Owner visibility
+- Coordinated sprint feedback
+- Communicated delivery risks and dependencies
+- Supported alignment across Product, Design, Engineering and QA
+- Documented retrospective actions and follow-up requirements
+
+---
+
+## Delivery Results
+
+| Metric | Result |
+|---|---:|
+| Agile sprints delivered | **2** |
+| Sprint duration | **2 weeks each** |
+| Story points delivered | **26** |
+| Sprint stories completed | **14** |
+| Async standups facilitated | **20** |
+| Significant blockers resolved | **2** |
+| Scope-creep incidents | **0** |
+| Committed sprint work delivered on schedule | **100%** |
+| Sprint 2 velocity improvement | **17%** |
+
+---
+
+## Product Scope
+
+The documented backlog was organized around five primary product areas:
+
+1. **User Onboarding**
+2. **AI Diagnostics**
+3. **Provider Directory**
+4. **Appointment Booking**
+5. **Notifications**
+
+The project combined product requirements, UX/UI collaboration, technical coordination, Agile delivery and quality/acceptance activities.
+
+---
+
+## Delivery Approach
+
+```text
+Product Vision
+      ↓
+Product Backlog
+      ↓
+Epics & User Stories
+      ↓
+Acceptance Criteria
+      ↓
+Sprint Planning
+      ↓
+Development
+      ↓
+QA / Validation
+      ↓
+Sprint Review
+      ↓
+Retrospective
+      ↓
+Continuous Improvement
